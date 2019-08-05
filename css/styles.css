@@ -13,6 +13,10 @@ h1 {
   color: #0092ca;
 }
 
+h2 {
+  color: #0092ca;
+}
+
 h3 {
   color: #0092ca;
 }
@@ -30,5 +34,10 @@ table {
 }
 
 a {
+  color: white;
+}
+
+
+.contact {
   color: white;
 }
