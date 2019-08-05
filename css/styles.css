@@ -9,24 +9,26 @@ hr {
   width: 5%;
 }
 
-h1{
+h1 {
   color: #0092ca;
 }
 
-h3{
+h3 {
   color: #0092ca;
 }
-p
-{
-  color: white;
-}
-ul{
-  color: white;
-}
-table{
+
+p {
   color: white;
 }
 
-a{
+ul {
+  color: white;
+}
+
+table {
+  color: white;
+}
+
+a {
   color: white;
 }
